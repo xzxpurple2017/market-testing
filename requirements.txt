@@ -1,0 +1,6 @@
+alpaca_py==0.6.1
+backtrader==1.9.76.123
+matplotlib==3.6.2
+pandas==1.5.2
+plotly==5.11.0
+python-dotenv==0.21.0
